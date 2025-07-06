@@ -1,4 +1,4 @@
-# Iceflow Pathfinder: Least-Cost Path Analysis in Antarctica using REMA Data
+# Terrain Slope Analysis in Antarctica using REMA Data
 
 This project demonstrates the use of high-resolution Arctic DEM data (REMA) via the STAC API to compute least-cost paths over ice sheets in the British Antarctic Territory (BAT). The goal is to showcase a use of elevation-derived slope data in Antarctica. Other potential use cases include modeling potential ice flow paths or simulating optimal navigation routes across Antarctic terrain.
 
